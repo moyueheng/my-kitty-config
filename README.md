@@ -20,7 +20,7 @@ or using `kitty --debug-input` to detect keysyms
 | key                                       | description   |
 |-------------------------------------------|---------------|
 | <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>r</kbd> | reload config |
-| <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>e</kbd> | reload config |
+| <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>e</kbd> | edit config |
 | <kbd>ctrl</kbd>+<kbd>a</kbd>><kbd>d</kbd> | debug config  |
 
 ### session
